@@ -1,0 +1,9 @@
+body {
+  background: aquamarine;
+}
+body .box {
+  width: 100px;
+  height: 100px;
+  background: pink;
+}
+/*# sourceMappingURL=./index.css.map */
